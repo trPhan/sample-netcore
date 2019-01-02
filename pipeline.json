@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "repository": "trPhan/sample-netcore"
+    "repository": "trphan/sample-netcore"
   },
   "deploy": {
     "containerPort": 5000
